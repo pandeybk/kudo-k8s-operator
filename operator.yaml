@@ -5,7 +5,7 @@ appVersion: "1.7.9"
 kubernetesVersion: 1.16.7
 maintainers:
   - name: Balkrishna Pandey
-    email: balkrishna.pandey@mavenir.com
+    email: <cool-email>
 url: https://kudo.dev
 tasks:
   - name: app
